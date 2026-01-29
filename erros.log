@@ -1,0 +1,321 @@
+2026-01-28 17:34:48,619 | 02814006 | CEP inv?lido ou n?o encontrado
+2026-01-28 17:36:52,882 | 02814006 | CEP inv?lido ou n?o encontrado
+2026-01-28 17:52:45,437 | 12226240 | CEP inv?lido ou n?o encontrado
+2026-01-28 17:53:41,413 | 12228451 | CEP inv?lido ou n?o encontrado
+2026-01-28 17:56:55,341 | 12940916 | CEP inv?lido ou n?o encontrado
+2026-01-28 17:57:01,306 | 12942971 | CEP inv?lido ou n?o encontrado
+2026-01-28 17:57:17,225 | 12946858 | CEP inv?lido ou n?o encontrado
+2026-01-28 17:58:07,281 | 13043970 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:09:49,742 | 13145882 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:12:31,533 | 13178401 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:12:56,161 | 13180420 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:13:09,885 | 13181126 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:13:51,789 | 13184038 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:16:23,735 | 13212854 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:16:59,840 | 13215767 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:29:12,028 | 13412137 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:43:36,203 | 14090698 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:44:38,197 | 14185000 | CEP inv?lido ou n?o encontrado
+2026-01-28 18:51:09,718 | 14400040 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14400040/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:11,905 | 14400120 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14400120/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:14,009 | 14400190 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14400190/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:15,711 | 14400459 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14400459/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:17,665 | 14401022 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401022/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:19,812 | 14401025 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401025/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:21,836 | 14401034 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401034/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:23,727 | 14401039 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401039/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:25,832 | 14401040 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401040/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:27,664 | 14401059 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401059/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:29,708 | 14401263 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401263/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:31,706 | 14401292 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14401292/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:33,776 | 14402083 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14402083/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:35,709 | 14402101 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14402101/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:37,651 | 14402137 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14402137/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:39,656 | 14402141 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14402141/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:41,794 | 14402154 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14402154/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:43,727 | 14402338 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14402338/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:45,780 | 14402475 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14402475/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:47,663 | 14403005 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403005/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:49,718 | 14403012 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403012/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:51,722 | 14403063 | HTTP | ('Connection aborted.', ConnectionAbortedError(10053, 'Uma conexão estabelecida foi anulada pelo software no computador host', None, 10053, None))
+2026-01-28 18:51:53,647 | 14403075 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403075/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:55,648 | 14403077 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403077/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:57,619 | 14403138 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403138/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:51:59,683 | 14403143 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403143/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:01,702 | 14403297 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403297/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:03,710 | 14403300 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403300/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:05,785 | 14403585 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403585/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:07,766 | 14403630 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403630/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:09,656 | 14403737 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403737/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:11,696 | 14403864 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403864/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:13,669 | 14403865 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403865/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:15,686 | 14403881 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14403881/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:17,731 | 14404244 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14404244/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:19,774 | 14404250 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14404250/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:21,792 | 14404632 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14404632/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:25,723 | 14405242 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14405242/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:29,700 | 14405260 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14405260/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 18:52:33,948 | 14405349 | HTTP | HTTPSConnectionPool(host='viacep.com.br', port=443): Max retries exceeded with url: /ws/14405349/json/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-01-28 19:05:45,590 | 02814006 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:21:33,497 | 12226240 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:22:29,477 | 12228451 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:25:43,449 | 12940916 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:25:49,495 | 12942971 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:26:05,745 | 12946858 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:26:55,522 | 13043970 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:38:37,785 | 13145882 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:41:19,899 | 13178401 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:41:43,956 | 13180420 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:41:57,923 | 13181126 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:42:40,087 | 13184038 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:45:12,682 | 13212854 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:45:48,029 | 13215767 | CEP inv?lido ou n?o encontrado
+2026-01-28 19:57:58,139 | 13412137 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:12:26,621 | 14090698 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:13:28,743 | 14185000 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:16:20,754 | 14406200 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:17:36,791 | 14781190 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:17:44,761 | 14781277 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:22:20,804 | 15134198 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:32:45,262 | 18072059 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:45:13,408 | 29043470 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:45:15,335 | 29043545 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:47:19,530 | 29113017 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:47:21,475 | 29113027 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:47:41,409 | 29115621 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:55:13,530 | 29178763 | CEP inv?lido ou n?o encontrado
+2026-01-28 20:55:17,527 | 29178767 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:02:07,809 | 33840472 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:04:37,816 | 35645970 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:06:07,834 | 35681561 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:07:06,019 | 35703248 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:07:47,891 | 35932089 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:10:01,992 | 36883279 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:10:18,863 | 36900398 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:24,331 | 40710780 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:26,234 | 40711068 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:28,222 | 40713032 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:30,208 | 40713070 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:32,244 | 40713270 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:34,361 | 40713320 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:38,305 | 40715138 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:40,265 | 40715192 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:42,279 | 40715210 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:44,244 | 40715434 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:46,284 | 40715487 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:48,207 | 40715790 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:50,190 | 40717150 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:52,252 | 40717286 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:54,246 | 40717291 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:24:56,262 | 40717338 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:00,207 | 40717562 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:02,311 | 40718390 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:05,002 | 40720046 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:07,395 | 40720048 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:08,892 | 40720060 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:10,648 | 40720072 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:12,189 | 40720162 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:14,255 | 40720164 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:16,230 | 40720186 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:18,219 | 40720258 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:20,244 | 40720284 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:22,230 | 40720300 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:24,168 | 40720308 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:26,174 | 40720323 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:28,163 | 40720364 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:30,169 | 40720483 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:32,185 | 40720560 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:36,265 | 40720715 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:40,322 | 40725042 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:42,222 | 40725110 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:44,232 | 40725122 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:48,291 | 40725270 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:50,200 | 40725320 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:54,326 | 40725580 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:25:56,141 | 40725788 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:00,320 | 40726105 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:02,327 | 40726210 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:04,423 | 40730080 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:08,233 | 40730170 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:10,714 | 40730275 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:13,097 | 40730570 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:16,236 | 40730660 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:18,266 | 40731030 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:20,347 | 40731170 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:22,256 | 40731242 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:24,310 | 40731280 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:26,236 | 40731335 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:32,463 | 40740350 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:34,453 | 40760260 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:36,309 | 40760400 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:38,324 | 40760424 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:40,305 | 40800042 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:42,276 | 40800202 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:44,300 | 40800206 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:46,210 | 40800252 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:48,372 | 40800338 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:50,303 | 40800363 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:52,706 | 40800848 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:56,348 | 40810090 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:26:58,287 | 40810208 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:00,401 | 40810420 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:02,336 | 40810505 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:04,294 | 40810630 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:06,295 | 40810670 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:08,318 | 40810720 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:10,401 | 40810780 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:12,225 | 40810800 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:14,356 | 40820030 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:16,331 | 40820200 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:18,195 | 40820262 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:20,236 | 40820268 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:24,270 | 40820790 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:26,216 | 40830350 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:28,440 | 40830400 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:30,479 | 40830472 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:32,329 | 40830490 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:34,806 | 40830528 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:36,352 | 40830738 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:40,286 | 41100014 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:42,437 | 41100043 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:27:44,368 | 41100048 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:28:12,282 | 41100465 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:28:14,427 | 41100715 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:28:32,307 | 41214695 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:28:34,381 | 41215230 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:28:48,364 | 41260145 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:28:54,370 | 41270535 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:04,424 | 41305030 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:06,222 | 41305190 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:08,306 | 41305330 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:10,340 | 41305430 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:14,340 | 41306032 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:16,395 | 41306305 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:18,320 | 41306360 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:29:54,339 | 41741120 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:06,105 | 41750005 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:07,792 | 41750015 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:11,922 | 41750190 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:18,161 | 41750440 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:19,361 | 41750470 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:20,908 | 41750650 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:23,115 | 41750680 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:24,911 | 41750700 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:52,426 | 41810976 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:30:54,331 | 41810980 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:31:14,392 | 41900222 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:31:36,364 | 41920620 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:31:50,392 | 41925675 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:31:52,423 | 41925690 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:39:12,458 | 44118970 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:40:32,534 | 45607970 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:40:48,904 | 45654360 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:47:34,952 | 56318690 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:50:42,996 | 57042551 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:50:44,995 | 57042552 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:51:43,019 | 57072234 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:56:13,138 | 58300710 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:56:19,142 | 58303230 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:56:23,048 | 58307220 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:56:25,039 | 58309824 | CEP inv?lido ou n?o encontrado
+2026-01-28 21:56:27,028 | 58309858 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:00:21,985 | 59957970 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:00:27,013 | 60030971 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:00:30,157 | 60055972 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:00:35,758 | 60110352 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:00:50,818 | 60115970 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:00:56,999 | 60125973 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:02:23,049 | 60410975 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:04:31,292 | 60732610 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:05:51,255 | 60835342 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:08:05,553 | 62033140 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:08:17,498 | 62041380 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:08:37,420 | 62504835 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:09:17,966 | 63024540 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:09:43,536 | 63050971 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:10:01,883 | 63214972 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:16:37,798 | 65040970 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:17:37,744 | 65068748 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:17:39,843 | 65068786 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:17:41,824 | 65068790 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:24:32,061 | 68115971 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:24:34,014 | 68125971 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:26:30,141 | 68647971 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:26:44,073 | 68735970 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:27:26,093 | 68906975 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:35:00,918 | 69090973 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:41:59,217 | 69307051 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:43:59,161 | 69310970 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:48:38,430 | 69421970 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:50:32,876 | 69559970 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:50:38,892 | 69600971 | CEP inv?lido ou n?o encontrado
+2026-01-28 22:50:50,890 | 69735000 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:02:35,259 | 70380970 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:20:11,460 | 71635999 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:23:31,543 | 71681970 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:24:35,439 | 71697540 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:24:37,469 | 71699573 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:32:59,665 | 71950440 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:33:01,697 | 71951000 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:33:09,619 | 71953360 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:33:11,636 | 71953540 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:33:25,770 | 71961000 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:33:43,600 | 71966720 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:33:49,655 | 71969180 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:34:03,588 | 71974970 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:38:25,927 | 72001115 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:38:51,949 | 72001430 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:38:53,969 | 72001465 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:38:55,862 | 72001530 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:38:57,712 | 72001540 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:38:59,733 | 72001545 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:02,146 | 72001550 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:03,804 | 72001580 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:05,966 | 72001585 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:07,834 | 72001650 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:09,933 | 72001660 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:11,832 | 72001680 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:13,734 | 72001700 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:15,760 | 72001710 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:17,818 | 72001815 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:19,866 | 72001845 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:21,845 | 72001850 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:23,759 | 72001880 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:25,917 | 72001886 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:27,828 | 72002020 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:29,850 | 72002180 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:31,838 | 72002195 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:33,753 | 72002200 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:35,806 | 72002215 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:37,854 | 72002225 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:39,864 | 72002230 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:41,819 | 72002235 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:43,668 | 72002240 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:45,895 | 72002250 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:47,788 | 72002290 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:49,757 | 72002295 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:51,825 | 72002320 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:53,743 | 72002400 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:55,773 | 72002450 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:39:57,806 | 72002480 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:25,960 | 72005105 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:27,791 | 72005115 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:29,851 | 72005130 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:31,869 | 72005175 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:33,967 | 72005215 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:35,956 | 72005220 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:37,910 | 72005265 | CEP inv?lido ou n?o encontrado
+2026-01-28 23:41:39,879 | 72005275 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:08:54,306 | 75644970 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:11:18,520 | 76801982 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:16:17,633 | 78149341 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:16:21,560 | 78437000 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:20:47,609 | 83980972 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:21:07,820 | 85035070 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:21:33,692 | 85813464 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:22:21,779 | 85859080 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:22:27,860 | 85861550 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:22:37,876 | 85864420 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:22:45,911 | 85867580 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:28:10,136 | 88350600 | CEP inv?lido ou n?o encontrado
+2026-01-29 00:28:32,133 | 88355991 | CEP inv?lido ou n?o encontrado
